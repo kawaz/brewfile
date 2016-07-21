@@ -67,6 +67,7 @@ tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
+brew ricty --vim-powerline
 
 # App Store applications
 appstore 443987910 1Password
